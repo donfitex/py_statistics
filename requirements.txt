@@ -1,0 +1,4 @@
+beautifulsoup4==4.15.0
+psycopg2-binary==2.9.13
+soupsieve==2.9.2
+typing_extensions==4.16.0
